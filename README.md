@@ -21,4 +21,4 @@ Number of users following
 
 # Screenshot
 
-![DeveloperProfileGenerator] (./images/Screenshot.PNG "Profile Example")
+![DeveloperProfileGenerator](./images/Screenshot.PNG "Profile Example")
