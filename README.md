@@ -2,4 +2,4 @@
 
 # Screenshot
 
-![DeveloperProfileGenerator] (.images/Screenshot.PNG "Profile")
+![DeveloperProfileGenerator] (./images/Screenshot.PNG "Profile")
