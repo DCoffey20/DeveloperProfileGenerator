@@ -9,7 +9,7 @@ const inquirer = require('inquirer');
 const axios = require('axios');
 const util = require('util');
 const asyncWriteFile = util.promisify(fs.writeFile);
-const googleAPIKey = "AIzaSyClbKkz6CfZT7pF0lR43xNTOrJIvljxYFE";
+${{googleAPIKey}};
 
 const questions = () => {
     return inquirer.prompt([{
